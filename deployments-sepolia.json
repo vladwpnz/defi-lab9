@@ -1,0 +1,13 @@
+{
+  "network": "sepolia",
+  "vlc": "0xa001C70C1A8F4a8F524f45B2C7a53Dc8F03f00b8",
+  "dao": "0x047b78080d2ddde72fdc9ebd77aa86848b53b7fb",
+  "mockProtocol": "0xA0c93287B8599EafAE6C5cc63e840B15D1ad68fD",
+  "mockProtocolDeployTx": "0xfd52964884650e2a3f542234cbe76aa4878a33070f2b4be838a2d3519fc7b274",
+  "ownershipTransferTx": "0x6367b63be863df66b9ecffd8aa7962fc30f23448f2cb826fd383b1fca1b23ffd",
+  "proposalId": "0",
+  "proposalCreateTx": "0x820236398fa570badc81eb3677f56a9202350b0a7060a18a9dca2b8cf227c535",
+  "proposalVoteTx": "0x6991f3997b3455c449382fbee3738d8f09380e3325c0ec6db5009ef6821f2f64",
+  "proposalExecuteTx": "0x409c08662288e11ed811e469c69949de238983e14cf10fc0713a51027d442eb3",
+  "proposalExecutionVerified": true
+}
